@@ -1,2 +1,2 @@
-# Web-Scrappers
-Web Scrappers Repository of all web scrappers
+# Web Scrappers
+Repository of all web scrappers
